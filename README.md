@@ -173,7 +173,8 @@ void dequeue()
 ~~~
 
 ## Output:
-![437944794-8f33d7b6-b48f-4ac8-a07e-beb41b2575dc](https://github.com/user-attachments/assets/5b6b14a9-55d7-49c0-81e9-ca4008bdfe77)
+<img width="827" height="780" alt="image" src="https://github.com/user-attachments/assets/b2114be8-e4c1-4255-96ed-0f42777301c4" />
+
 
 ## Result:
 Thus, the function that deletes an element from a queue implemented using an array is verified successfully.
